@@ -1,0 +1,44 @@
+name,distance,lat,lon,category,Type
+Downtown High School,408,37.761475,-122.403943,High School,Standard Education
+Live Oak School,465,37.763509,-122.399117,Elementary School,Standard Education
+"Live Oak, A Learning Center For Children",467,37.763525,-122.399333,Primary and Secondary School,Standard Education
+San Francisco Unified School District Financing Corporation,480,37.761703,-122.400946,Elementary School,Standard Education
+The New School of San Francisco,487,37.761752,-122.400734,Elementary School,Standard Education
+Altschool,1472,37.760968,-122.388287,Private School,Private Education
+Millennium School,1614,37.76889,-122.42194,Private School,Private Education
+Golden Bear Taxi School,1770,37.751143,-122.39459,Private School,Private Education
+Spectrum Center,1874,37.773773,-122.422587,Private School,Private Education
+DevBootcamp,2264,37.784755,-122.396855,Private School,Private Education
+Salsa Dance Classes with Tianne Frias,202,37.765059,-122.401932,Night Club,Night club
+The Great Northern,320,37.768066,-122.406625,Night Club,Night club
+Monte Cristo Tango Club,634,37.764675,-122.397107,Night Club,Night club
+DNA Lounge,983,37.77104,-122.412606,Night Club,Night club
+Fancypants Village,987,37.771143,-122.41254,Night Club,Night club
+YOLO Night Club,1061,37.771544,-122.413281,Night Club,Night club
+Club New World Order,1065,37.771544,-122.413281,Movie Theater,Night club
+Audio Nightclub,1090,37.7715,-122.413852,Night Club,Night club
+F8 1192 Folsom,1230,37.775284,-122.409994,Night Club,Night club
+Cat Club,1234,37.775329,-122.40992,Night Club,Night club
+Starbucks,105,37.765796,-122.403409,Coffee Shop,Starbucks
+Starbucks,493,37.766862,-122.409564,Coffee Shop,Starbucks
+Starbucks,575,37.770294,-122.403435,Coffee Shop,Starbucks
+Starbucks,600,37.762898,-122.410549,Coffee Shop,Starbucks
+Starbucks,935,37.767121,-122.393738,Coffee Shop,Starbucks
+Starbucks,1468,37.771253,-122.38925,Coffee Shop,Starbucks
+CyberProtocols,132,37.765579,-122.402823,Website Designer,Design Companies
+Ethos Technology,177,37.765427,-122.40224,Website Designer,Design Companies
+Webflow,313,37.76689,-122.407057,Website Designer,Design Companies
+3Scan,785,37.759917,-122.410229,Website Designer,Design Companies
+Y Studios,872,37.763353,-122.414016,Website Designer,Design Companies
+Earnest,883,37.760138,-122.412034,Website Designer,Design Companies
+Candid,1061,37.760175,-122.414545,Website Designer,Design Companies
+SF Website Design,1074,37.77492,-122.402441,Website Designer,Design Companies
+Dubberly Design Office,1121,37.7572,-122.412004,Website Designer,Design Companies
+Catalyst Innovation Partners,1190,37.771469,-122.393277,Website Designer,Design Companies
+Next Level Burger Potrero Hill,143,37.7645,-122.402831,Vegan and Vegetarian Restaurant,Vegan
+Sweetgreen,434,37.769067,-122.40434,Restaurant,Vegan
+Neighborhood Grove,1249,37.77026,-122.391558,Mediterranean Restaurant,Vegan
+Chase Center Stadium,1503,37.767924,-122.387478,Stadium,Stadium
+Bernie's Grooming,656,37.768602,-122.410312,Pet Grooming Service,Pet Grooming Service
+"SF Hound Lounge - Dog Daycare, Boarding, Professional Grooming & Training",680,37.762833,-122.411405,Pet Grooming Service,Pet Grooming Service
+Bernie's Grooming,796,37.766882,-122.412719,Pet Grooming Service,Pet Grooming Service

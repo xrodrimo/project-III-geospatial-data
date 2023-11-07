@@ -1,23 +1,41 @@
-name,distance,lat,lon,Type
-Sweetgreen,290,37.769067,-122.40434,
-Starbucks,761,37.767121,-122.393738,Starbucks
-Starbucks,164,37.770294,-122.403435,Starbucks
-Starbucks,799,37.766862,-122.409564,Starbucks
-Starbucks,540,37.765796,-122.403409,Starbucks
-Starbucks,966,37.776836,-122.394023,Starbucks
-The Great Northern,541,37.768066,-122.406625,Clubs
-SFJAZZ Center,1869,37.776278,-122.421445,Clubs
-Cat Club,905,37.775329,-122.40992,Clubs
-Great American Music Hall,2213,37.784806,-122.418866,Clubs
-Rickshaw Stop,1768,37.776056,-122.4205,Clubs
-Bessie Carmichael Middle School/Filipino Education Center,1128,37.780634,-122.40034,Middle school
-Millennium School,1799,37.76889,-122.42194,Middle school
-Chinese American International School,1879,37.775313,-122.422104,Middle school
-International Studies Academy,966,37.761714,-122.400803,Middle school
-Downtown High School,1027,37.761475,-122.403943,Middle school
-Downtown High School,1027,37.761475,-122.403943,Highschool
-John O'Connell High School,1622,37.759465,-122.414001,Highschool
-San Francisco International High School,1655,37.755162,-122.408731,Highschool
-High School of Commerce,1773,37.776815,-122.419971,Highschool
-San Francisco International High School,979,37.761714,-122.400803,Highschool
-Sweetgreen,290,37.769067,-122.40434,Vegan
+name,distance,lat,lon,category,Type
+San Francisco Unified School District,722,37.775948,-122.406086,Elementary School,Standard Education
+Altschool,727,37.771751,-122.409709,Elementary School,Standard Education
+San Francisco Unified School District,744,37.777202,-122.402074,Primary and Secondary School,Standard Education
+Carmichael (Bessie)/Fec,746,37.776019,-122.406448,Elementary School,Standard Education
+San Francisco Sherrif's Department Five Key Adult,748,37.777229,-122.402147,Primary and Secondary School,Standard Education
+Altschool,1571,37.760968,-122.388287,Private School,Private Education
+DevBootcamp,1629,37.784755,-122.396855,Private School,Private Education
+Millennium School,1799,37.76889,-122.42194,Private School,Private Education
+Spectrum Center,1880,37.773773,-122.422587,Private School,Private Education
+Golden Gate Restaurant Association Scholarship Fun,1915,37.787641,-122.403979,Elementary School,Private Education
+Mirza Party,40,37.770442,-122.402034,Night Club,Night club
+Castle SF,504,37.767811,-122.406108,Night Club,Night club
+The Great Northern,541,37.768066,-122.406625,Night Club,Night club
+Salsa Dance Classes with Tianne Frias,606,37.765059,-122.401932,Night Club,Night club
+Metronome Ballroom,616,37.764967,-122.401855,Night Club,Night club
+Monte Cristo Tango Club,766,37.764675,-122.397107,Night Club,Night club
+ShangriLa SF,775,37.777266,-122.403798,Night Club,Night club
+Kool Aid SF,778,37.777304,-122.403729,Night Club,Night club
+Frolic,785,37.77277,-122.410056,Night Club,Night club
+The Endup,793,37.777304,-122.403729,Night Club,Night club
+Starbucks,164,37.770294,-122.403435,Coffee Shop,Starbucks
+Starbucks,540,37.765796,-122.403409,Coffee Shop,Starbucks
+Starbucks,761,37.767121,-122.393738,Coffee Shop,Starbucks
+Manmade,382,37.773,-122.404478,Website Designer,Design Companies
+Atomic D,386,37.774091,-122.400887,Website Designer,Design Companies
+SF Website Design,479,37.77492,-122.402441,Website Designer,Design Companies
+CyberProtocols,558,37.765579,-122.402823,Website Designer,Design Companies
+Web Design Ecommerce & Web,567,37.774964,-122.398429,Website Designer,Design Companies
+Ethos Technology,567,37.765427,-122.40224,Website Designer,Design Companies
+Webflow,627,37.76689,-122.407057,Website Designer,Design Companies
+Catalyst Innovation Partners,737,37.771469,-122.393277,Website Designer,Design Companies
+FastComet,788,37.776325,-122.396431,Website Designer,Design Companies
+Splash Designs,790,37.776298,-122.396357,Website Designer,Design Companies
+Sweetgreen,290,37.769067,-122.40434,Restaurant,Vegan
+Next Level Burger Potrero Hill,676,37.7645,-122.402831,Vegan and Vegetarian Restaurant,Vegan
+Souley Vegan,689,37.776546,-122.402537,Vegan and Vegetarian Restaurant,Vegan
+Chase Center Stadium,1274,37.767924,-122.387478,Stadium,Stadium
+Tefani & So. Dogcare,789,37.772928,-122.410137,Pet Grooming Service,Pet Grooming Service
+Bernie's Grooming,795,37.768602,-122.410312,Pet Grooming Service,Pet Grooming Service
+Healthy Spot,885,37.772564,-122.391765,Pet Grooming Service,Pet Grooming Service
